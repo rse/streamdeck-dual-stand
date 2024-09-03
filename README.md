@@ -18,12 +18,14 @@ This custom stand was originally designed for the [msg Filmstudio](msg.direct/fi
 the filmstudio of [Dr. Ralf S. Engelschall](mailto:ralf.engelschall@msg.group) (CTO) at [msg](https://www.msg.group). 
 This studio is driven by a control room of about two dozen Stream Deck XL
 devices, spread on five desks. The primary position of the event director uses such a lot
-of necessary keys to control a production that the Stream Deck XL devices initially had up to three pages. As this
-was too impractical during an event, the position now consists of a desk
-with 11 Stream Deck XL devices and nearly no necessary paging on each device, so the
-director can reach all keys immediately. This was only possible through
-stacking the Stream Deck XL devices with the help of this custom dual stand,
-which Noah S. Engelschall designed in 3D in [Blender](https://blender.org) and printed on a
+of necessary keys to control a production that the Stream Deck XL devices initially had up to three pages.
+
+As this was too impractical during an event, the position now consists
+of a desk with 11 Stream Deck XL devices and nearly no necessary paging
+on each device, so the director can reach all keys immediately. This
+was only possible through stacking the Stream Deck XL devices with the
+help of this custom dual stand, which Noah S. Engelschall designed
+in 3D in [Blender](https://blender.org) and printed on a
 [Bambu Lab X1](https://bambulab.com/de-de/x1) device.
 
 Impressions
