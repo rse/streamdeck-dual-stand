@@ -33,6 +33,7 @@ Impressions
 
 ![](elgato-stream-deck-xl-dual-stand-model.gif)
 ![](elgato-stream-deck-xl-dual-stand-printing.gif)
+![](elgato-stream-deck-xl-dual-stand-result-1.jpg)
 ![](elgato-stream-deck-xl-dual-stand-result-6.jpg)
 
 Resources
