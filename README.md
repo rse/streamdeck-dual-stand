@@ -11,13 +11,6 @@ consumer product, a USB-connected programmable 32 key block. This custom
 stand allows to seamlessly stack two Stream Deck XL devices and is
 intended for scenarios with limited desk space.
 
-Impressions
------------
-
-![](elgato-stream-deck-xl-dual-stand-model.gif)
-![](elgato-stream-deck-xl-dual-stand-printing.gif)
-![](elgato-stream-deck-xl-dual-stand-result-6.jpg)
-
 Origin
 ------
 
@@ -32,6 +25,13 @@ director can reach all keys immediately. This was only possible through
 stacking the Stream Deck XL devices with the help of this custom dual stand,
 which Noah S. Engelschall designed in 3D in [Blender](https://blender.org) and printed on a
 [Bambu Lab X1](https://bambulab.com/de-de/x1) device.
+
+Impressions
+-----------
+
+![](elgato-stream-deck-xl-dual-stand-model.gif)
+![](elgato-stream-deck-xl-dual-stand-printing.gif)
+![](elgato-stream-deck-xl-dual-stand-result-6.jpg)
 
 Resources
 ---------
