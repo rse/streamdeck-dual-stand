@@ -14,9 +14,9 @@ intended for scenarios with limited desk space.
 Impressions
 -----------
 
-![](elgato-stream-deck-xl-dual-stand-model.gif | width=600)
-![](elgato-stream-deck-xl-dual-stand-printing.gif | width=600)
-![](elgato-stream-deck-xl-dual-stand-result-6.jpg | width=600)
+![](elgato-stream-deck-xl-dual-stand-model.gif|width=600)
+![](elgato-stream-deck-xl-dual-stand-printing.gif|width=600)
+![](elgato-stream-deck-xl-dual-stand-result-6.jpg|width=600)
 
 Origin
 ------
