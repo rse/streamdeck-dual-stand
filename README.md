@@ -40,15 +40,15 @@ Resources
 
 ### Design
 
-- [Blender](https://blender.org) software
+- [Blender Software](https://blender.org)
 - [3D Model (Blender design format)](./elgato-stream-deck-xl-dual-stand-model.blend)
-- [3D Model (Blender screencast](./elgato-stream-deck-xl-dual-stand-model.mp4)
+- [3D Model (Blender screencast)](./elgato-stream-deck-xl-dual-stand-model.mp4)
 - [3D Model (STL export format)](./elgato-stream-deck-xl-dual-stand-model.stl)
 
 ### Printing
 
-- [Bambu Lab X1](https://bambulab.com/de-de/x1) printer
-- [Stand Printing](./elgato-stream-deck-xl-dual-stand-printing.m4v)
+- [Bambu Lab X1 device](https://bambulab.com/de-de/x1) printer
+- [Stand Printing Process](./elgato-stream-deck-xl-dual-stand-printing.m4v)
 
 ### Result
 
