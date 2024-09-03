@@ -100,5 +100,5 @@ Copyright & License
 
 Authored by msg Research, msg systems ag<br/>
 Copyright &copy; 2024 [msg systems ag](https://www.msg.group)<br/>
-Licensed under [MIT](https://spdx.org/licenses/MIT)
+Licensed under [MIT](https://spdx.org/licenses/MIT) license.
 
