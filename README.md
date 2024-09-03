@@ -70,24 +70,24 @@ Third, photos of the resulting dual stand.
 ### Design
 
 - [Blender Software](https://blender.org)
-- [3D Model (Blender design format)](./elgato-stream-deck-xl-dual-stand-model.blend)
-- [3D Model (Blender screencast)](./elgato-stream-deck-xl-dual-stand-model.mp4)
+- [3D model (Blender design format)](./elgato-stream-deck-xl-dual-stand-model.blend)
+- [3D model (Blender screencast)](./elgato-stream-deck-xl-dual-stand-model.mp4)
 
 ### Printing
 
-- [3D Model (STL export format)](./elgato-stream-deck-xl-dual-stand-model.stl)
-- [Bambu Lab X1 device](https://bambulab.com/de-de/x1) printer
-- [Stand Printing Process](./elgato-stream-deck-xl-dual-stand-printing.m4v)
+- [3D model (STL export format)](./elgato-stream-deck-xl-dual-stand-model.stl)
+- [Bambu Lab X1 3D printing device](https://bambulab.com/de-de/x1)
+- [Stand printing process](./elgato-stream-deck-xl-dual-stand-printing.m4v)
 
 ### Result
 
-- [Stand Result 1](./elgato-stream-deck-xl-dual-stand-result-1.jpg)
-- [Stand Result 2](./elgato-stream-deck-xl-dual-stand-result-2.jpg)
-- [Stand Result 3](./elgato-stream-deck-xl-dual-stand-result-3.jpg)
-- [Stand Result 4](./elgato-stream-deck-xl-dual-stand-result-4.jpg)
-- [Stand Result 5](./elgato-stream-deck-xl-dual-stand-result-5.jpg)
-- [Stand Result 6](./elgato-stream-deck-xl-dual-stand-result-6.jpg)
-- [Stand Result 7](./elgato-stream-deck-xl-dual-stand-result-7.jpg)
+- [Stand result (photo 1)](./elgato-stream-deck-xl-dual-stand-result-1.jpg)
+- [Stand result (photo 2)](./elgato-stream-deck-xl-dual-stand-result-2.jpg)
+- [Stand result (photo 3)](./elgato-stream-deck-xl-dual-stand-result-3.jpg)
+- [Stand result (photo 4)](./elgato-stream-deck-xl-dual-stand-result-4.jpg)
+- [Stand result (photo 5)](./elgato-stream-deck-xl-dual-stand-result-5.jpg)
+- [Stand result (photo 6)](./elgato-stream-deck-xl-dual-stand-result-6.jpg)
+- [Stand result (photo 7)](./elgato-stream-deck-xl-dual-stand-result-7.jpg)
 
 Authors
 -------
