@@ -39,8 +39,8 @@ The dual stand allows two Stream Deck XL devices to be stacked in the
 usual angle of the original stand. The stand itself is optimized to
 consist of as less printing material as possible and require just a
 single support structure during printing. The dual stand contains 24
-holes for small 8x1mm magnets and at the bottom 2 holes for glueing in
-anti-slip material.
+holes for small self-adhesive 8x1mm magnets and at the bottom 2 holes form
+self-adhesive anti-slip silicon material.
 
 Impressions
 -----------
@@ -78,6 +78,11 @@ Third, photos of the resulting dual stand.
 - [3D model (STL export format)](./elgato-stream-deck-xl-dual-stand-model.stl)
 - [Bambu Lab X1 3D printing device](https://bambulab.com/de-de/x1)
 - [Stand printing process](./elgato-stream-deck-xl-dual-stand-printing.m4v)
+
+### Completion
+
+- [8x1mm self-adhesive magnets](https://www.amazon.de/dp/B0BJQ918KX)
+- [2mm self-adhesive silicon](https://www.amazon.de/dp/B071CGN92T)
 
 ### Result
 
