@@ -32,8 +32,27 @@ help of this custom dual stand, which Noah S. Engelschall designed
 in 3D in [Blender](https://blender.org) and printed on a
 [Bambu Lab X1](https://bambulab.com/de-de/x1) 3D printing device.
 
+Design Criterias
+----------------
+
+The dual stand allows two Stream Deck XL devices to be stacked in the
+usual angle of the original stand. The stand itself is optimized to
+consist of as less printing material as possible and require just a
+single support structure during printing. The dual stand contains 24
+holes for small 8x1mm magnets and at the bottom 2 holes for glueing in
+anti-slip material.
+
 Impressions
 -----------
+
+The following shows some impressions of the dual stand. First, the
+3D model in Blender. Second, the 3D model printed inside Bambu Lab
+X1. Third, the resulting dual stand (still with the necessary support
+structure in the middle). Forth, the dual stand fifth times on the
+desk of the Director at the msg Filmstudio. As a result, the Director
+has 10x32 (Stream Deck XL) plus 1x16 (Stream Deck+) or in total 336
+keys at hand. These 336 keys allows the Director to reach nearly all
+functionality with a single key press.
 
 ![](elgato-stream-deck-xl-dual-stand-model.gif)
 ![](elgato-stream-deck-xl-dual-stand-printing.gif)
@@ -43,15 +62,20 @@ Impressions
 Resources
 ---------
 
+The following are all resources of this dual stand.
+First, the design artifacts and the corresponding screencast.
+Second, the 3D printing format and the printing process timelaps.
+Third, photos of the resulting dual stand.
+
 ### Design
 
 - [Blender Software](https://blender.org)
 - [3D Model (Blender design format)](./elgato-stream-deck-xl-dual-stand-model.blend)
 - [3D Model (Blender screencast)](./elgato-stream-deck-xl-dual-stand-model.mp4)
-- [3D Model (STL export format)](./elgato-stream-deck-xl-dual-stand-model.stl)
 
 ### Printing
 
+- [3D Model (STL export format)](./elgato-stream-deck-xl-dual-stand-model.stl)
 - [Bambu Lab X1 device](https://bambulab.com/de-de/x1) printer
 - [Stand Printing Process](./elgato-stream-deck-xl-dual-stand-printing.m4v)
 
